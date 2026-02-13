@@ -17,7 +17,7 @@ L’app calcola i costi reali della tua auto per ogni viaggio.
 Provala ora
 
 ⛽🧾 Scheda rimborso Km pronta
-Genera in un clic il documento da consegnare all’azienda.
+Genera in un clic il documento con il rimborso Km secondo le Tabelle ACI, da consegnare all’azienda.
 
 Provala ora
 
